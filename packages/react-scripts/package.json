@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.8",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "name": "@buidlers/react-scripts-template",
+  "version": "0.0.10",
+  "description": "Custom CRA configuration",
+  "repository": "vilsbole/react-scripts-template",
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
@@ -73,7 +73,8 @@
   },
   "devDependencies": {
     "react": "^16.8.4",
-    "react-dom": "^16.8.4"
+    "react-dom": "^16.8.4",
+    "normalize.css": "^8.0.1"
   },
   "optionalDependencies": {
     "fsevents": "1.2.7"

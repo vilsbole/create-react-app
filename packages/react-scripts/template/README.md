@@ -1,3 +1,17 @@
+---
+
+We modified react-scripts/template with our custom setup.
+The `package.json` is directly copied from the template so you may need to update the dependencies versions.
+To use this template run:
+
+```
+ npx create-react-app <project_name> --scripts-version vilsbole-react-scripts
+```
+
+After creation make sure to run `yarn` again to install the dependencies.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
